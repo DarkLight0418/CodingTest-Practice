@@ -71,3 +71,17 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+---
+### n의 배수
+
+입력 :
+- num
+- n
+
+출력(반환):
+- answer
+
+규칙 :
+- num이 n의 배수이면 1 리턴
+- num이 n의 배수가 아니라면 0 리턴
