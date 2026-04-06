@@ -71,5 +71,17 @@
 <li>"tbbttb"에는 "tbt"가 없으므로 0을 return합니다.</li>
 </ul>
 
+***
+## 부분 문자열
+
+### 입력: 
+- 길이 1 이상 20 이하의 영어 알파벳 **소문자** 문자열 str1과 str2
+
+### 출력:
+부분 문자열일 경우 1 리턴
+아닐 경우 0 리턴
+
+### 제약 조건:
+- 1 ≤ str1, str2 ≤ 20
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
