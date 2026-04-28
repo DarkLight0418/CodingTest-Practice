@@ -89,5 +89,10 @@ index를 0으로 둠. <br/>
 index가 문자열 길이보다 작고, n_str[index]가 '0'이면 index를 1 증가시킴. <br/>
 반복이 끝나면 index부터 끝까지 잘라서 반환.
 
+1. i = 0으로 시작한다.
+2. i가 문자열 길이보다 작고, n_str[i]가 '0'인 동안 i를 증가시킨다.
+3. 반복이 끝났을 때 i는 처음으로 0이 아닌 문자의 위치다.
+4. n_str.substring(i)를 반환한다.
+
 ***
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
