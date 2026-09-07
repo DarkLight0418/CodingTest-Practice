@@ -94,5 +94,17 @@
 </ul></li>
 </ul>
 
+---
+심폐소생술
+- check : 1
+- call : 2
+- pressure : 3
+- respiration : 4
+- repeat : 5
+
+입력 : check 같은 거 입력
+출력 : 각각 저 위에 있는 순서(번호)에 따라 맞춰서 출력
+
+후기 : 보니까 리스트랑 문자열 자꾸 착각하는 모양인데 그 점 다시 연습해야 할 듯, 마지막으로 인덱스는 0부터니 i+1.
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
